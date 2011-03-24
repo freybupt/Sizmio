@@ -1,0 +1,598 @@
+TBreadcrumb
+v7
+r0
+t322468023.126990
+cCheck dependencies
+cProcessInfoPlistFile /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/Info.plist Breadcrumb-Info.plist
+cCompileXIB /Users/freybupt/Documents/workspace/Breadcrumb/en.lproj/BreadcrumbViewController.xib
+cCompileXIB /Users/freybupt/Documents/workspace/Breadcrumb/en.lproj/MainWindow.xib
+cCpResource build/Release-iphonesimulator/Breadcrumb.app/Icon-72.png images/Icon-72.png
+cCpResource build/Release-iphonesimulator/Breadcrumb.app/Icon-Small-50.png images/Icon-Small-50.png
+cCpResource build/Release-iphonesimulator/Breadcrumb.app/Icon-Small.png images/Icon-Small.png
+cCpResource build/Release-iphonesimulator/Breadcrumb.app/Icon-Small@2x.png images/Icon-Small@2x.png
+cCpResource build/Release-iphonesimulator/Breadcrumb.app/Icon.png images/Icon.png
+cCpResource build/Release-iphonesimulator/Breadcrumb.app/Icon@2x.png images/Icon@2x.png
+cCpResource build/Release-iphonesimulator/Breadcrumb.app/iTunesArtwork images/iTunesArtwork
+cCpResource build/Release-iphonesimulator/Breadcrumb.app/Hero.aiff Hero.aiff
+cProcessPCH /var/folders/ur/ur0vq6uxG7iXr7vBSm9JtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-dzalkfclaeayqadyrpbodzhurbfg/Breadcrumb_Prefix.pch.gch Breadcrumb_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/ur/ur0vq6uxG7iXr7vBSm9JtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-bgktwqzkejpmdlafkttbnbjxrlyo/Breadcrumb_Prefix.pch.pth Breadcrumb_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+cCompileC build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/main.o /Users/freybupt/Documents/workspace/Breadcrumb/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/BreadcrumbAppDelegate.o /Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/BreadcrumbViewController.o /Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/CrumbPath.o /Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPath.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/CrumbPathView.o /Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPathView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cAnalyze /Users/freybupt/Documents/workspace/Breadcrumb/main.m
+cAnalyze /Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbAppDelegate.m
+cAnalyze /Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbViewController.m
+cAnalyze /Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPath.m
+cAnalyze /Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPathView.m
+cLd /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/Breadcrumb normal i386
+cGenerateDSYMFile /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app.dSYM /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/Breadcrumb
+cTouch /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004CC128840000000000000733
+t1287727236
+s1843
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004CC1222F0000000000000A23
+t1287725615
+s2595
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC127E80000000000074190
+t1287727080
+s475536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC1294D00000000000002FE
+t1287727437
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC12977000000000017E7F0
+t1287727479
+s1566704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/pthread.h
+c000000004CB3E48600000000000038F0
+t1286857862
+s14576
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/Breadcrumb_Prefix.pch
+c000000004D37361C00000000000000BD
+t1295463964
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbAppDelegate.h
+c000000004D37361C0000000000000AE2
+t1295463964
+s2786
+i<UIKit/UIKit.h>
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbAppDelegate.m
+c000000004D37361C00000000000015B7
+t1295463964
+s5559
+i"BreadcrumbAppDelegate.h"
+i"BreadcrumbViewController.h"
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbViewController.h
+c000000004D37361C0000000000000FD1
+t1295463964
+s4049
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i<AVFoundation/AVFoundation.h>
+i"CrumbPath.h"
+i"CrumbPathView.h"
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbViewController.m
+c000000004D37361C0000000000003385
+t1295463964
+s13189
+i"BreadcrumbViewController.h"
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPath.h
+c000000004D37361C0000000000000E94
+t1295463964
+s3732
+i<MapKit/MapKit.h>
+i<pthread.h>
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPath.m
+c000000004D37361C000000000000156F
+t1295463964
+s5487
+i"CrumbPath.h"
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPathView.h
+c000000004D37361C0000000000000AA9
+t1295463964
+s2729
+i<MapKit/MapKit.h>
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPathView.m
+c000000004D37361C0000000000001C26
+t1295463964
+s7206
+i"CrumbPathView.h"
+i"CrumbPath.h"
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/Hero.aiff
+c000000004D37361B000000000002D852
+t1295463963
+s186450
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/Breadcrumb.LinkFileList
+c000000004D88413500000000000002E5
+t1300775221
+s741
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/BreadcrumbAppDelegate.o
+t1300775222
+s56768
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/BreadcrumbViewController.o
+t1300775222
+s78040
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/CrumbPath.o
+t1300775222
+s17788
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/CrumbPathView.o
+t1300775222
+s44076
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/main.o
+t1300775222
+s6304
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/StaticAnalyzer/normal/i386/BreadcrumbAppDelegate.plist
+t1300775222
+s276
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/StaticAnalyzer/normal/i386/BreadcrumbViewController.plist
+t1300775222
+s276
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/StaticAnalyzer/normal/i386/CrumbPath.plist
+t1300775222
+s276
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/StaticAnalyzer/normal/i386/CrumbPathView.plist
+t1300775222
+s276
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/StaticAnalyzer/normal/i386/main.plist
+t1300775222
+s276
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app
+t1300775223
+s476
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app.dSYM
+t1300775223
+s102
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/Breadcrumb
+t1300775223
+s46040
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/Hero.aiff
+t1300775221
+s186450
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/Icon-72.png
+t1300775221
+s537
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/Icon-Small-50.png
+t1300775221
+s537
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/Icon-Small.png
+t1300775221
+s537
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/Icon-Small@2x.png
+t1300775221
+s537
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/Icon.png
+t1300775221
+s537
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/Icon@2x.png
+t1300775221
+s537
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/Info.plist
+t1300775221
+s840
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/PkgInfo
+t1300775221
+s8
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/en.lproj/BreadcrumbViewController.nib
+t1300775221
+s3303
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/en.lproj/MainWindow.nib
+t1300775221
+s1551
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/iTunesArtwork
+t1300775221
+s5188
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/en.lproj/BreadcrumbViewController.xib
+c000000004D37361C0000000000008FB7
+t1295463964
+s36791
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/en.lproj/MainWindow.xib
+c000000004D7AB84C0000000000006ED6
+t1299888204
+s28374
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/images/Icon-72.png
+c000000004D7AB2E40000000000000219
+t1299886820
+s537
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/images/Icon-Small-50.png
+c000000004D7AB2E40000000000000219
+t1299886820
+s537
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/images/Icon-Small.png
+c000000004D7AB2E40000000000000219
+t1299886820
+s537
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/images/Icon-Small@2x.png
+c000000004D7AB2E40000000000000219
+t1299886820
+s537
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/images/Icon.png
+c000000004D7AB2E40000000000000219
+t1299886820
+s537
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/images/Icon@2x.png
+c000000004D7AB2E40000000000000219
+t1299886820
+s537
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/images/iTunesArtwork
+c000000004D37361B0000000000001444
+t1295463963
+s5188
+
+N/Users/freybupt/Documents/workspace/Breadcrumb/main.m
+c000000004D37361C0000000000000A42
+t1295463964
+s2626
+i<UIKit/UIKit.h>
+
+N/var/folders/ur/ur0vq6uxG7iXr7vBSm9JtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-bgktwqzkejpmdlafkttbnbjxrlyo/Breadcrumb_Prefix.pch.pth
+t1300775222
+s2785056
+
+N/var/folders/ur/ur0vq6uxG7iXr7vBSm9JtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-dzalkfclaeayqadyrpbodzhurbfg/Breadcrumb_Prefix.pch.gch
+t1300775222
+s15113424
+
+NBreadcrumb-Info.plist
+c000000004D7AB93F000000000000058B
+t1299888447
+s1419
+
+CAnalyze /Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbAppDelegate.m
+s322468022.611760
+e322468022.748162
+r1
+xAnalyze
+x/Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbAppDelegate.m
+lSLF07#2@86"Analyze /Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbAppDelegate.m322468022#322468022#0(0"0(0#0#78"/Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbAppDelegate.m8600626592#2340"    cd /Users/freybupt/Documents/workspace/Breadcrumb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Werror -Wmissing-field-initializers -Wreturn-type -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-variable -Wunused-value -Wshadow -Wsign-compare -Wshorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-generated-files.hmap -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-own-target-headers.hmap -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-all-target-headers.hmap -iquote /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-project-headers.hmap -F/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/include -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/DerivedSources/i386 -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/ur/ur0vq6uxG7iXr7vBSm9JtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-bgktwqzkejpmdlafkttbnbjxrlyo/Breadcrumb_Prefix.pch --analyze /Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbAppDelegate.m -o /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/StaticAnalyzer/normal/i386/BreadcrumbAppDelegate.plist0#
+
+CAnalyze /Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbViewController.m
+s322468022.613259
+e322468022.767650
+r1
+xAnalyze
+x/Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbViewController.m
+lSLF07#2@89"Analyze /Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbViewController.m322468022#322468022#0(0"0(0#0#81"/Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbViewController.m8602742432#2346"    cd /Users/freybupt/Documents/workspace/Breadcrumb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Werror -Wmissing-field-initializers -Wreturn-type -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-variable -Wunused-value -Wshadow -Wsign-compare -Wshorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-generated-files.hmap -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-own-target-headers.hmap -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-all-target-headers.hmap -iquote /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-project-headers.hmap -F/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/include -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/DerivedSources/i386 -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/ur/ur0vq6uxG7iXr7vBSm9JtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-bgktwqzkejpmdlafkttbnbjxrlyo/Breadcrumb_Prefix.pch --analyze /Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbViewController.m -o /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/StaticAnalyzer/normal/i386/BreadcrumbViewController.plist0#
+
+CAnalyze /Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPath.m
+s322468022.661069
+e322468022.739897
+r1
+xAnalyze
+x/Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPath.m
+lSLF07#2@74"Analyze /Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPath.m322468022#322468022#0(0"0(0#0#66"/Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPath.m8607001280#2316"    cd /Users/freybupt/Documents/workspace/Breadcrumb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Werror -Wmissing-field-initializers -Wreturn-type -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-variable -Wunused-value -Wshadow -Wsign-compare -Wshorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-generated-files.hmap -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-own-target-headers.hmap -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-all-target-headers.hmap -iquote /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-project-headers.hmap -F/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/include -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/DerivedSources/i386 -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/ur/ur0vq6uxG7iXr7vBSm9JtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-bgktwqzkejpmdlafkttbnbjxrlyo/Breadcrumb_Prefix.pch --analyze /Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPath.m -o /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/StaticAnalyzer/normal/i386/CrumbPath.plist0#
+
+CAnalyze /Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPathView.m
+s322468022.707978
+e322468022.774582
+r1
+xAnalyze
+x/Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPathView.m
+lSLF07#2@78"Analyze /Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPathView.m322468022#322468022#0(0"0(0#0#70"/Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPathView.m8611005696#2324"    cd /Users/freybupt/Documents/workspace/Breadcrumb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Werror -Wmissing-field-initializers -Wreturn-type -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-variable -Wunused-value -Wshadow -Wsign-compare -Wshorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-generated-files.hmap -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-own-target-headers.hmap -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-all-target-headers.hmap -iquote /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-project-headers.hmap -F/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/include -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/DerivedSources/i386 -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/ur/ur0vq6uxG7iXr7vBSm9JtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-bgktwqzkejpmdlafkttbnbjxrlyo/Breadcrumb_Prefix.pch --analyze /Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPathView.m -o /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/StaticAnalyzer/normal/i386/CrumbPathView.plist0#
+
+CAnalyze /Users/freybupt/Documents/workspace/Breadcrumb/main.m
+s322468022.610190
+e322468022.707807
+r1
+xAnalyze
+x/Users/freybupt/Documents/workspace/Breadcrumb/main.m
+lSLF07#2@61"Analyze /Users/freybupt/Documents/workspace/Breadcrumb/main.m322468022#322468022#0(0"0(0#0#53"/Users/freybupt/Documents/workspace/Breadcrumb/main.m8607515520#2298"    cd /Users/freybupt/Documents/workspace/Breadcrumb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Werror -Wmissing-field-initializers -Wreturn-type -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-variable -Wunused-value -Wshadow -Wsign-compare -Wshorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-generated-files.hmap -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-own-target-headers.hmap -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-all-target-headers.hmap -iquote /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-project-headers.hmap -F/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/include -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/DerivedSources/i386 -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/ur/ur0vq6uxG7iXr7vBSm9JtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-bgktwqzkejpmdlafkttbnbjxrlyo/Breadcrumb_Prefix.pch --analyze /Users/freybupt/Documents/workspace/Breadcrumb/main.m -o /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322468021#322468021#0(0"0(0#1#0"9007697477435492#0"0#
+
+CCompileC build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/BreadcrumbAppDelegate.o /Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322468022.604729
+e322468022.768407
+r1
+xCompileC
+xbuild/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/BreadcrumbAppDelegate.o
+x/Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbAppDelegate.m322468022#322468022#0(0"0(0#0#78"/Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbAppDelegate.m8607808928#2353"    cd /Users/freybupt/Documents/workspace/Breadcrumb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wmissing-field-initializers -Wreturn-type -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-variable -Wunused-value -Wshadow -Wsign-compare -Wshorten-64-to-32 -Wundeclared-selector -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-generated-files.hmap -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-own-target-headers.hmap -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-all-target-headers.hmap -iquote /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-project-headers.hmap -F/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/include -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/DerivedSources/i386 -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/ur/ur0vq6uxG7iXr7vBSm9JtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-dzalkfclaeayqadyrpbodzhurbfg/Breadcrumb_Prefix.pch -c /Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbAppDelegate.m -o /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/BreadcrumbAppDelegate.o0#
+
+CCompileC build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/BreadcrumbViewController.o /Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322468022.606395
+e322468022.987020
+r1
+xCompileC
+xbuild/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/BreadcrumbViewController.o
+x/Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbViewController.m322468022#322468022#0(0"0(0#0#81"/Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbViewController.m8606392064#2359"    cd /Users/freybupt/Documents/workspace/Breadcrumb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wmissing-field-initializers -Wreturn-type -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-variable -Wunused-value -Wshadow -Wsign-compare -Wshorten-64-to-32 -Wundeclared-selector -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-generated-files.hmap -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-own-target-headers.hmap -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-all-target-headers.hmap -iquote /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-project-headers.hmap -F/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/include -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/DerivedSources/i386 -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/ur/ur0vq6uxG7iXr7vBSm9JtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-dzalkfclaeayqadyrpbodzhurbfg/Breadcrumb_Prefix.pch -c /Users/freybupt/Documents/workspace/Breadcrumb/Classes/BreadcrumbViewController.m -o /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/BreadcrumbViewController.o0#
+
+CCompileC build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/CrumbPath.o /Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPath.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322468022.607604
+e322468022.753643
+r1
+xCompileC
+xbuild/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/CrumbPath.o
+x/Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPath.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPath.m322468022#322468022#0(0"0(0#0#66"/Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPath.m8599427264#2329"    cd /Users/freybupt/Documents/workspace/Breadcrumb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wmissing-field-initializers -Wreturn-type -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-variable -Wunused-value -Wshadow -Wsign-compare -Wshorten-64-to-32 -Wundeclared-selector -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-generated-files.hmap -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-own-target-headers.hmap -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-all-target-headers.hmap -iquote /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-project-headers.hmap -F/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/include -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/DerivedSources/i386 -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/ur/ur0vq6uxG7iXr7vBSm9JtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-dzalkfclaeayqadyrpbodzhurbfg/Breadcrumb_Prefix.pch -c /Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPath.m -o /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/CrumbPath.o0#
+
+CCompileC build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/CrumbPathView.o /Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPathView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322468022.608799
+e322468022.750541
+r1
+xCompileC
+xbuild/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/CrumbPathView.o
+x/Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPathView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPathView.m322468022#322468022#0(0"0(0#0#70"/Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPathView.m8599641216#2337"    cd /Users/freybupt/Documents/workspace/Breadcrumb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wmissing-field-initializers -Wreturn-type -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-variable -Wunused-value -Wshadow -Wsign-compare -Wshorten-64-to-32 -Wundeclared-selector -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-generated-files.hmap -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-own-target-headers.hmap -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-all-target-headers.hmap -iquote /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-project-headers.hmap -F/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/include -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/DerivedSources/i386 -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/ur/ur0vq6uxG7iXr7vBSm9JtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-dzalkfclaeayqadyrpbodzhurbfg/Breadcrumb_Prefix.pch -c /Users/freybupt/Documents/workspace/Breadcrumb/Classes/CrumbPathView.m -o /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/CrumbPathView.o0#
+
+CCompileC build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/main.o /Users/freybupt/Documents/workspace/Breadcrumb/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322468022.571982
+e322468022.660938
+r1
+xCompileC
+xbuild/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/main.o
+x/Users/freybupt/Documents/workspace/Breadcrumb/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/freybupt/Documents/workspace/Breadcrumb/main.m322468022#322468022#0(0"0(0#0#53"/Users/freybupt/Documents/workspace/Breadcrumb/main.m8611333824#2311"    cd /Users/freybupt/Documents/workspace/Breadcrumb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wmissing-field-initializers -Wreturn-type -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-variable -Wunused-value -Wshadow -Wsign-compare -Wshorten-64-to-32 -Wundeclared-selector -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-generated-files.hmap -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-own-target-headers.hmap -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-all-target-headers.hmap -iquote /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-project-headers.hmap -F/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/include -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/DerivedSources/i386 -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/ur/ur0vq6uxG7iXr7vBSm9JtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-dzalkfclaeayqadyrpbodzhurbfg/Breadcrumb_Prefix.pch -c /Users/freybupt/Documents/workspace/Breadcrumb/main.m -o /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/freybupt/Documents/workspace/Breadcrumb/en.lproj/BreadcrumbViewController.xib
+s322468021.205426
+e322468021.864758
+r1
+xCompileXIB
+x/Users/freybupt/Documents/workspace/Breadcrumb/en.lproj/BreadcrumbViewController.xib
+lSLF07#2@48"CompileXIB en.lproj/BreadcrumbViewController.xib322468021#322468021#0(0"0(0#0#84"/Users/freybupt/Documents/workspace/Breadcrumb/en.lproj/BreadcrumbViewController.xib8611837376#645"    cd /Users/freybupt/Documents/workspace/Breadcrumb    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/en.lproj/BreadcrumbViewController.nib /Users/freybupt/Documents/workspace/Breadcrumb/en.lproj/BreadcrumbViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/freybupt/Documents/workspace/Breadcrumb/en.lproj/MainWindow.xib
+s322468021.206213
+e322468021.631334
+r1
+xCompileXIB
+x/Users/freybupt/Documents/workspace/Breadcrumb/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib322468021#322468021#0(0"0(0#0#70"/Users/freybupt/Documents/workspace/Breadcrumb/en.lproj/MainWindow.xib8601030848#617"    cd /Users/freybupt/Documents/workspace/Breadcrumb    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/en.lproj/MainWindow.nib /Users/freybupt/Documents/workspace/Breadcrumb/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Release-iphonesimulator/Breadcrumb.app/Hero.aiff Hero.aiff
+s322468021.301704
+e322468021.393481
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Breadcrumb.app/Hero.aiff
+xHero.aiff
+lSLF07#2@14"Copy Hero.aiff322468021#322468021#0(0"0(0#0#56"/Users/freybupt/Documents/workspace/Breadcrumb/Hero.aiff8607447648#517"    cd /Users/freybupt/Documents/workspace/Breadcrumb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/freybupt/Documents/workspace/Breadcrumb/Hero.aiff /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app0#
+
+CCpResource build/Release-iphonesimulator/Breadcrumb.app/Icon-72.png images/Icon-72.png
+s322468021.297336
+e322468021.302818
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Breadcrumb.app/Icon-72.png
+ximages/Icon-72.png
+lSLF07#2@23"Copy images/Icon-72.png322468021#322468021#0(0"0(0#0#65"/Users/freybupt/Documents/workspace/Breadcrumb/images/Icon-72.png8612096576#526"    cd /Users/freybupt/Documents/workspace/Breadcrumb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/freybupt/Documents/workspace/Breadcrumb/images/Icon-72.png /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app0#
+
+CCpResource build/Release-iphonesimulator/Breadcrumb.app/Icon-Small-50.png images/Icon-Small-50.png
+s322468021.297909
+e322468021.302582
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Breadcrumb.app/Icon-Small-50.png
+ximages/Icon-Small-50.png
+lSLF07#2@29"Copy images/Icon-Small-50.png322468021#322468021#0(0"0(0#0#71"/Users/freybupt/Documents/workspace/Breadcrumb/images/Icon-Small-50.png8611753344#532"    cd /Users/freybupt/Documents/workspace/Breadcrumb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/freybupt/Documents/workspace/Breadcrumb/images/Icon-Small-50.png /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app0#
+
+CCpResource build/Release-iphonesimulator/Breadcrumb.app/Icon-Small.png images/Icon-Small.png
+s322468021.298362
+e322468021.369950
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Breadcrumb.app/Icon-Small.png
+ximages/Icon-Small.png
+lSLF07#2@26"Copy images/Icon-Small.png322468021#322468021#0(0"0(0#0#68"/Users/freybupt/Documents/workspace/Breadcrumb/images/Icon-Small.png8611682496#529"    cd /Users/freybupt/Documents/workspace/Breadcrumb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/freybupt/Documents/workspace/Breadcrumb/images/Icon-Small.png /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app0#
+
+CCpResource build/Release-iphonesimulator/Breadcrumb.app/Icon-Small@2x.png images/Icon-Small@2x.png
+s322468021.298850
+e322468021.359544
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Breadcrumb.app/Icon-Small@2x.png
+ximages/Icon-Small@2x.png
+lSLF07#2@29"Copy images/Icon-Small@2x.png322468021#322468021#0(0"0(0#0#71"/Users/freybupt/Documents/workspace/Breadcrumb/images/Icon-Small@2x.png8610863168#532"    cd /Users/freybupt/Documents/workspace/Breadcrumb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/freybupt/Documents/workspace/Breadcrumb/images/Icon-Small@2x.png /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app0#
+
+CCpResource build/Release-iphonesimulator/Breadcrumb.app/Icon.png images/Icon.png
+s322468021.299537
+e322468021.384316
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Breadcrumb.app/Icon.png
+ximages/Icon.png
+lSLF07#2@20"Copy images/Icon.png322468021#322468021#0(0"0(0#0#62"/Users/freybupt/Documents/workspace/Breadcrumb/images/Icon.png8610378368#523"    cd /Users/freybupt/Documents/workspace/Breadcrumb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/freybupt/Documents/workspace/Breadcrumb/images/Icon.png /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app0#
+
+CCpResource build/Release-iphonesimulator/Breadcrumb.app/Icon@2x.png images/Icon@2x.png
+s322468021.300254
+e322468021.359368
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Breadcrumb.app/Icon@2x.png
+ximages/Icon@2x.png
+lSLF07#2@23"Copy images/Icon@2x.png322468021#322468021#0(0"0(0#0#65"/Users/freybupt/Documents/workspace/Breadcrumb/images/Icon@2x.png8608331392#526"    cd /Users/freybupt/Documents/workspace/Breadcrumb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/freybupt/Documents/workspace/Breadcrumb/images/Icon@2x.png /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app0#
+
+CCpResource build/Release-iphonesimulator/Breadcrumb.app/iTunesArtwork images/iTunesArtwork
+s322468021.300972
+e322468021.369701
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Breadcrumb.app/iTunesArtwork
+ximages/iTunesArtwork
+lSLF07#2@25"Copy images/iTunesArtwork322468021#322468021#0(0"0(0#0#67"/Users/freybupt/Documents/workspace/Breadcrumb/images/iTunesArtwork8607982368#528"    cd /Users/freybupt/Documents/workspace/Breadcrumb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/freybupt/Documents/workspace/Breadcrumb/images/iTunesArtwork /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app0#
+
+CGenerateDSYMFile /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app.dSYM /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/Breadcrumb
+s322468023.057751
+e322468023.123773
+r1
+xGenerateDSYMFile
+x/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app.dSYM
+x/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/Breadcrumb
+lSLF07#2@122"GenerateDSYMFile build/Release-iphonesimulator/Breadcrumb.app.dSYM build/Release-iphonesimulator/Breadcrumb.app/Breadcrumb322468023#322468023#0(0"0(0#0#102"/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/Breadcrumb8611291616#420"    cd /Users/freybupt/Documents/workspace/Breadcrumb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/Breadcrumb -o /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app.dSYM0#
+
+CLd /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/Breadcrumb normal i386
+s322468022.987173
+e322468023.057664
+r1
+xLd
+x/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/Breadcrumb
+xnormal
+xi386
+lSLF07#2@107"Link /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/Breadcrumb322468022#322468023#0(0"0(0#0#0"8611440480#1053"    cd /Users/freybupt/Documents/workspace/Breadcrumb    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator -F/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator -filelist /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Objects-normal/i386/Breadcrumb.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -framework CoreLocation -framework AVFoundation -framework AudioToolbox -o /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/Breadcrumb0#
+
+CProcessInfoPlistFile /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/Info.plist Breadcrumb-Info.plist
+s322468021.196904
+e322468021.205352
+r1
+xProcessInfoPlistFile
+x/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/Info.plist
+xBreadcrumb-Info.plist
+lSLF07#2@29"Process Breadcrumb-Info.plist322468021#322468021#0(0"0(0#0#68"/Users/freybupt/Documents/workspace/Breadcrumb/Breadcrumb-Info.plist28710920075673648#516"    cd /Users/freybupt/Documents/workspace/Breadcrumb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Breadcrumb-Info.plist -genpkginfo /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app/Info.plist0#
+
+CProcessPCH /var/folders/ur/ur0vq6uxG7iXr7vBSm9JtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-bgktwqzkejpmdlafkttbnbjxrlyo/Breadcrumb_Prefix.pch.pth Breadcrumb_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s322468021.865660
+e322468022.271770
+r1
+xProcessPCH
+x/var/folders/ur/ur0vq6uxG7iXr7vBSm9JtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-bgktwqzkejpmdlafkttbnbjxrlyo/Breadcrumb_Prefix.pch.pth
+xBreadcrumb_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@32"Precompile Breadcrumb_Prefix.pch322468021#322468022#0(0"0(0#0#68"/Users/freybupt/Documents/workspace/Breadcrumb/Breadcrumb_Prefix.pch8599525440#2159"    cd /Users/freybupt/Documents/workspace/Breadcrumb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Werror -Wmissing-field-initializers -Wreturn-type -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-variable -Wunused-value -Wshadow -Wsign-compare -Wshorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-generated-files.hmap -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-own-target-headers.hmap -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-all-target-headers.hmap -iquote /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-project-headers.hmap -F/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/include -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/DerivedSources/i386 -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/freybupt/Documents/workspace/Breadcrumb/Breadcrumb_Prefix.pch -o /var/folders/ur/ur0vq6uxG7iXr7vBSm9JtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-bgktwqzkejpmdlafkttbnbjxrlyo/Breadcrumb_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/ur/ur0vq6uxG7iXr7vBSm9JtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-dzalkfclaeayqadyrpbodzhurbfg/Breadcrumb_Prefix.pch.gch Breadcrumb_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322468021.864926
+e322468022.571812
+r1
+xProcessPCH
+x/var/folders/ur/ur0vq6uxG7iXr7vBSm9JtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-dzalkfclaeayqadyrpbodzhurbfg/Breadcrumb_Prefix.pch.gch
+xBreadcrumb_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Breadcrumb_Prefix.pch322468021#322468022#0(0"0(0#0#68"/Users/freybupt/Documents/workspace/Breadcrumb/Breadcrumb_Prefix.pch8602847072#2190"    cd /Users/freybupt/Documents/workspace/Breadcrumb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Werror -Wmissing-field-initializers -Wreturn-type -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-variable -Wunused-value -Wshadow -Wsign-compare -Wshorten-64-to-32 -Wundeclared-selector -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-generated-files.hmap -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-own-target-headers.hmap -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-all-target-headers.hmap -iquote /Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/Breadcrumb-project-headers.hmap -F/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/include -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/DerivedSources/i386 -I/Users/freybupt/Documents/workspace/Breadcrumb/build/Breadcrumb.build/Release-iphonesimulator/Breadcrumb.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/freybupt/Documents/workspace/Breadcrumb/Breadcrumb_Prefix.pch -o /var/folders/ur/ur0vq6uxG7iXr7vBSm9JtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Breadcrumb_Prefix-dzalkfclaeayqadyrpbodzhurbfg/Breadcrumb_Prefix.pch.gch0#
+
+CTouch /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app
+s322468023.123869
+e322468023.126951
+r1
+xTouch
+x/Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app
+lSLF07#2@97"Touch /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app322468023#322468023#0(0"0(0#0#0"8608324640#299"    cd /Users/freybupt/Documents/workspace/Breadcrumb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/freybupt/Documents/workspace/Breadcrumb/build/Release-iphonesimulator/Breadcrumb.app0#
+
